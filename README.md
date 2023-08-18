@@ -1,2 +1,2 @@
 # AgencyTemplate_WebPage
-ReEsponsive Agency Template Web Page using HTML and CSS
+Responsive Agency Template Web Page using HTML and CSS
